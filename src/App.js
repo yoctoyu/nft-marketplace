@@ -132,10 +132,10 @@ const App = () => {
   const showContent = web3 && collectionCtx.contract && marketplaceCtx.contract && web3Ctx.account;
   
   return(
-    <React.Fragment>
+    <div className="bg-dark">
       {showNavbar && <Navbar />}
       {showContent && <Main />}
-    </React.Fragment>
+    </div>
   );
 };
 
