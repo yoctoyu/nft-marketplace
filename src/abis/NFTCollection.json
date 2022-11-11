@@ -21767,10 +21767,16 @@
       "links": {},
       "address": "0xcfB0b8EA8b00227b89bc0006E0Df1c76C4155F9d",
       "transactionHash": "0x975519b06bdd45b31d700531e8aa8ee17424ee1635af827b6d294f7ec20e764a"
+    },
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x4B63bA81C245F5Cb36EDD35af87A53040c0c5A0D",
+      "transactionHash": "0x7dd22e4baeb1e392467a4bb8aff0bb5c71b0b99ac7cf4e5a717251b0ea1dfb8a"
     }
   },
   "schemaVersion": "3.4.10",
-  "updatedAt": "2022-11-09T21:15:53.372Z",
+  "updatedAt": "2022-11-11T16:12:18.945Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
