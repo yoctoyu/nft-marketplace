@@ -57,7 +57,7 @@ const Navbar = () => {
   }
   
   return (
-    <nav className="navbar navbar-expand-sm navbar-light bg-white p-0">      
+    <nav className="navbar navbar-expand-sm navbar-dark bg-primary p-0">      
       <ul className="navbar-nav ms-auto">
         <li className="nav-item">
           {marketplaceCtx.userFunds > 0 && !fundsLoading &&
